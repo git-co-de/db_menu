@@ -1,3 +1,6 @@
+Ursprüngliche Idee des Projekts von Jonas Köllermeier https://github.com/jkoeller93
+Beitrag von git-co-de betrifft den Bereich Beverages. 
+
 # DB_Train_Menu
 Information about Onboard Dining Menu (Food &amp; Beverages) of German Railway Operator Deutsche Bahn
 
