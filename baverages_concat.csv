@@ -1,0 +1,992 @@
+category,name,description,image,vegetaric,vegan,bio,menu,price,date
+Aktion,Birra Moretti Pils,"0,33 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.3,2021-07-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-07-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-07-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2021-07-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-07-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-07-01
+Alkoholfreie Getränke,Bio Rhabarber Limonade,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2021-07-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-07-01
+Bier,"Bitburger Premium Pils 0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-07-01
+Bier,"Bitburger Premium Pils 0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-07-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-07-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-07-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-07-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-07-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-07-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-07-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-07-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-07-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-07-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-07-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-07-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-07-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-07-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2021-07-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2021-07-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2021-07-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2021-07-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.5,2021-07-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-07-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2021-07-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2021-07-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-07-01
+Heißgetränke,Espresso Macchiato L,,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2021-07-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-07-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-07-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-07-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-07-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-07-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-07-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-07-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-07-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2021-07-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.5,2021-07-01
+Wein & Sekt,2019 Rosé Spies,"trocken, halbtrocken, Weingut Spies, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.5,2021-07-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2021-07-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2021-07-01
+Aktion,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-10-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-10-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-10-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2021-10-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-10-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-10-01
+Alkoholfreie Getränke,Bio Rhabarber Limonade,"0,33 l Flasche, naturtrüb",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2021-10-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-10-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-10-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-10-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-10-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-10-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-10-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-10-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-10-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-10-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-10-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-10-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-10-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-10-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-10-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-10-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-10-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2021-10-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2021-10-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2021-10-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2021-10-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.5,2021-10-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-10-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2021-10-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2021-10-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-10-01
+Heißgetränke,Espresso Macchiato L,,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2021-10-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-10-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.4,2021-10-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-10-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-10-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-10-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-10-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-10-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-10-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-10-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2021-10-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.5,2021-10-01
+Wein & Sekt,2019 Rosé Spies,"trocken, halbtrocken, Weingut Spies, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.5,2021-10-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2021-10-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2021-10-01
+Aktion,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-12-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-12-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-12-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2021-12-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-12-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-12-01
+Alkoholfreie Getränke,Bio Rhabarber Limonade,"0,33 l Flasche, naturtrüb",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2021-12-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2021-12-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-12-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-12-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-12-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-12-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-12-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-12-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2021-12-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-12-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-12-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-12-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-12-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-12-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-12-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-12-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-12-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2021-12-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2021-12-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2021-12-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2021-12-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.5,2021-12-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2021-12-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2021-12-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2021-12-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2021-12-01
+Heißgetränke,Espresso Macchiato L,,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2021-12-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2021-12-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.4,2021-12-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-12-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-12-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-12-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.2,2021-12-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2021-12-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2021-12-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2021-12-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2021-12-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.5,2021-12-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2021-12-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2021-12-01
+Aktion,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-02-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-02-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-02-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2022-02-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-02-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-02-01
+Alkoholfreie Getränke,Bio Rhabarber Limonade,"0,33 l Flasche, naturtrüb",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2022-02-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-02-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-02-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-02-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-02-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-02-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-02-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-02-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-02-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-02-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-02-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-02-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-02-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-02-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-02-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-02-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-02-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-02-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-02-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-02-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-02-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-02-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-02-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-02-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-02-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.6,2022-02-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2022-02-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2022-02-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.9,2022-02-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-02-01
+Heißgetränke,Espresso Macchiato L,,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-02-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-02-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.5,2022-02-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-02-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-02-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-02-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-02-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-02-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-02-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-02-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-02-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-02-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2022-02-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2022-02-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.5,2022-02-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2022-02-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2022-02-01
+Aktion,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-03-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-03-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-03-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2022-03-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-03-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-03-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2022-03-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-03-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-03-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-03-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-03-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-03-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-03-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-03-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-03-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-03-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-03-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-03-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-03-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-03-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-03-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-03-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-03-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-03-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-03-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-03-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-03-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-03-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-03-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-03-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-03-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.6,2022-03-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2022-03-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2022-03-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.9,2022-03-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-03-01
+Heißgetränke,Espresso Macchiato L,,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-03-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-03-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.5,2022-03-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-03-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-03-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-03-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-03-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-03-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-03-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-03-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-03-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-03-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2022-03-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2022-03-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.5,2022-03-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2022-03-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2022-03-01
+Aktion,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-04-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-04-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-04-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2022-04-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-04-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-04-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2022-04-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-04-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-04-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-04-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-04-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-04-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-04-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-04-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-04-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-04-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-04-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-04-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-04-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-04-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-04-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-04-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-04-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-04-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-04-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-04-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-04-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-04-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-04-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-04-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-04-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.6,2022-04-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2022-04-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2022-04-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.9,2022-04-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-04-01
+Heißgetränke,Espresso Macchiato L,,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-04-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-04-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.5,2022-04-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-04-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-04-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-04-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-04-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-04-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-04-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-04-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-04-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-04-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2022-04-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2022-04-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.5,2022-04-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2022-04-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2022-04-01
+Aktion,Gin Tonic,"0,25 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,9.5,2022-06-01
+Aktion,Fever-Tree Mediterranean Tonic Water,"0,2 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-06-01
+Aktion,Gin,"Alc. 43 Vol.-%, 5 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2022-06-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-06-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-06-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2022-06-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-06-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-06-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2022-06-01
+Alkoholfreie Getränke,Bio Rhabarber Limonade,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2022-06-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.0,2022-06-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-06-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-06-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-06-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-06-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-06-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-06-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-06-01
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-06-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-06-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-06-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-06-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-06-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-06-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-06-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-06-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-06-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-06-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-06-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-06-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-06-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-06-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-06-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-06-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-06-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.6,2022-06-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2022-06-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2022-06-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.9,2022-06-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-06-01
+Heißgetränke,Espresso Macchiato L,,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-06-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-06-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.5,2022-06-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-06-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-06-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-06-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.3,2022-06-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-06-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-06-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-06-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.7,2022-06-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2022-06-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.7,2022-06-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2022-06-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.5,2022-06-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2022-06-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2022-06-01
+Aktion,Gin Tonic,"0,25 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,9.5,2022-07-01
+Aktion,Fever-Tree Mediterranean Tonic Water,"0,2 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Aktion,Gin,"Alc. 43 Vol.-%, 5 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2022-07-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2022-07-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2022-07-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2022-07-01
+Alkoholfreie Getränke,Bio Rhabarber Limonade,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2022-07-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2022-07-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2022-07-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2022-07-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2022-07-01
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2022-07-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-07-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-07-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-07-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-07-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-07-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-07-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2022-07-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-07-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2022-07-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2022-07-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-07-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.6,2022-07-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-07-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-07-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-07-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2022-07-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.5,2022-07-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2022-07-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2022-07-01
+Aktion,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,4.4,2022-09-01
+Aktion,Jägermeister Kräuterlikör,"Alc. 35 Vol.-%, 4 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2022-09-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2022-09-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2022-09-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2022-09-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-09-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-09-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2022-09-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2022-09-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2022-09-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2022-09-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2022-09-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-09-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-09-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-09-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-09-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-09-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-09-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-09-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2022-09-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2022-09-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2022-09-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2022-09-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2022-09-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2022-09-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2022-09-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.6,2022-09-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2022-09-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2022-09-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2022-09-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2022-09-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.5,2022-09-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2022-09-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2022-09-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2023-01-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2023-01-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2023-01-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.2,2023-01-01
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-01-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-01-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-01-01
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-01-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-01-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-01-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-01-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-01-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-01-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-01-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2023-01-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2023-01-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2023-01-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2023-01-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-01-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.6,2023-01-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,BIO-EILLES TEE S Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,BIO-EILLES TEE L Früchtetee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2023-01-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-01-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-01-01
+Spirituosen,Gin,"Alc. 43 Vol.-%, 5 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2023-01-01
+Spirituosen,Gin Tonic,"0,25 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,9.5,2023-01-01
+Wein & Sekt,Grauburgunder,"trocken, Juwel Weine, Rheinhessen, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,7.9,2023-01-01
+Wein & Sekt,Riesling,"trocken, Weingut Leitz, Rheingau, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.5,2023-01-01
+Wein & Sekt,Rotwein,"trocken, Christian Hirsch, Württemberg, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2023-01-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2023-01-01
+Wein & Sekt,BRLO Winter Cider,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2023-01-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.3,2023-09-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.3,2023-09-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2023-09-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-09-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-09-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2023-09-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.3,2023-09-01
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Alkoholfreie Getränke,Bio Rhabarber Limonade,"0,33 l Flasche",,Vegetarisch,Vegan,bio,Kein Menü,3.8,2023-09-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-09-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Bier,"Bitburger 0,0 % alkoholfreies Pils","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-09-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-09-01
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-09-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-09-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-09-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-09-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-09-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-09-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-09-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-09-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-09-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-09-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-09-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-09-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-09-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-09-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-09-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2023-09-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-09-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2023-09-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2023-09-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-09-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-09-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2023-09-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-09-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-09-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-09-01
+Heißgetränke,BIO-EILLES TEE S Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-09-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-09-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-09-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-09-01
+Heißgetränke,BIO-EILLES TEE L Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-09-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2023-09-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2023-09-01
+Spirituosen,Gin,"Alc. 43 Vol.-%, 5 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2023-09-01
+Spirituosen,Gin Tonic,"0,25 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,9.5,2023-09-01
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.5,2023-09-01
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2023-09-01
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2023-09-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2023-09-01
+Aktion,Voelkel Hygge Glühwein,"0,2 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-12-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.3,2023-12-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.3,2023-12-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2023-12-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-12-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-12-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2023-12-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.3,2023-12-01
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-12-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Bier,"Bitburger 0,0 % Herb Pils alkoholfrei","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-12-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-12-01
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2023-12-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-12-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-12-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-12-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-12-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-12-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2023-12-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-12-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-12-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-12-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-12-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-12-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2023-12-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2023-12-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2023-12-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2023-12-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2023-12-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2023-12-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2023-12-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2023-12-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.8,2023-12-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.8,2023-12-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-12-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-12-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-12-01
+Heißgetränke,BIO-EILLES TEE S Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2023-12-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-12-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-12-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-12-01
+Heißgetränke,BIO-EILLES TEE L Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2023-12-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2023-12-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2023-12-01
+Spirituosen,Gin,"Alc. 43 Vol.-%, 5 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.9,2023-12-01
+Spirituosen,Gin Tonic,"0,25 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,9.5,2023-12-01
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.5,2023-12-01
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2023-12-01
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2023-12-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2023-12-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2024-03-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2024-03-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-03-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.4,2024-03-01
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.0,2024-03-01
+Alkoholfreie Getränke,Voelkel BioZisch Natur Orange,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-03-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.9,2024-03-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Bier,"Bitburger 0,0 % Herb Pils alkoholfrei","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.9,2024-03-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.9,2024-03-01
+Bier,Heineken Pils,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-03-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-03-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-03-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2024-03-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-03-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-03-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2024-03-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-03-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-03-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-03-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-03-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-03-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-03-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-03-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-03-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2024-03-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2024-03-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2024-03-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2024-03-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-03-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-03-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.9,2024-03-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-03-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-03-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-03-01
+Heißgetränke,BIO-EILLES TEE S Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-03-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-03-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-03-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-03-01
+Heißgetränke,BIO-EILLES TEE L Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-03-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2024-03-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-03-01
+Spirituosen,Gin,"Alc. 41 Vol.-%, 4 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.5,2024-03-01
+Spirituosen,Gin,"0,24 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,10.5,2024-03-01
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.5,2024-03-01
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-03-01
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2024-03-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-03-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2024-06-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.5,2024-06-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-06-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.4,2024-06-01
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.0,2024-06-01
+Alkoholfreie Getränke,Sanpellegrino Aranciata Orangenlimonade,"0,275 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-06-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.9,2024-06-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.9,2024-06-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.9,2024-06-01
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.9,2024-06-01
+Bier,"Jever Fun Alkoholfrei""","0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-06-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-06-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-06-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2024-06-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-06-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-06-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.8,2024-06-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-06-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-06-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-06-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-06-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-06-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-06-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-06-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-06-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2024-06-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.4,2024-06-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.5,2024-06-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.2,2024-06-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-06-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-06-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,2.9,2024-06-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-06-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-06-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-06-01
+Heißgetränke,BIO-EILLES TEE S Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.5,2024-06-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-06-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-06-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-06-01
+Heißgetränke,BIO-EILLES TEE L Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2024-06-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2024-06-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-06-01
+Spirituosen,Gin,"Alc. 41 Vol.-%, 4 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.5,2024-06-01
+Spirituosen,Gin,"0,24 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,10.5,2024-06-01
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.5,2024-06-01
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-06-01
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2024-06-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-06-01
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2024-09-01
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2024-09-01
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,4.2,2024-09-01
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2024-09-01
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.4,2024-09-01
+Alkoholfreie Getränke,Orangina Original Orangenlimonade,"0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,4.2,2024-09-01
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-09-01
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-09-01
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-09-01
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-09-01
+Bier,Jever Fun Alkoholfrei,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-09-01
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-09-01
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-09-01
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-09-01
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-09-01
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-09-01
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-09-01
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-09-01
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-09-01
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-09-01
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2024-09-01
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-09-01
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-09-01
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2024-09-01
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2024-09-01
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-09-01
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.8,2024-09-01
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2024-09-01
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-09-01
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-09-01
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2024-09-01
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-09-01
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-09-01
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-09-01
+Heißgetränke,BIO-EILLES TEE S Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-09-01
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-09-01
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-09-01
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-09-01
+Heißgetränke,BIO-EILLES TEE L Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-09-01
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-09-01
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-09-01
+Spirituosen,Gin,"Alc. 41 Vol.-%, 4 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-09-01
+Spirituosen,Gin,"0,24 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,11.0,2024-09-01
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-09-01
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-09-01
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2024-09-01
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-09-01
+Aktion,Voelkel Hygge Glühwein,"Alc. 10 Vol.-%, 0,2 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,4.5,2024-11-27
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2024-11-27
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2024-11-27
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,4.2,2024-11-27
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2024-11-27
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.4,2024-11-27
+Alkoholfreie Getränke,Almdudler Kräuterlimonade,"0,35 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-11-27
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-11-27
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-11-27
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-11-27
+Bier,Jever Fun Alkoholfrei,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-11-27
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-11-27
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-11-27
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-11-27
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-11-27
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-11-27
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-11-27
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-11-27
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-11-27
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-11-27
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2024-11-27
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-11-27
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-11-27
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2024-11-27
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2024-11-27
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-11-27
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.8,2024-11-27
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2024-11-27
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-11-27
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-11-27
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2024-11-27
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-11-27
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-11-27
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-11-27
+Heißgetränke,BIO-EILLES TEE S Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-11-27
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-11-27
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-11-27
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-11-27
+Heißgetränke,BIO-EILLES TEE L Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-11-27
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-11-27
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-11-27
+Spirituosen,Gin,"Alc. 41 Vol.-%, 4 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-11-27
+Spirituosen,Gin,"0,24 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,11.0,2024-11-27
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-11-27
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-11-27
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2024-11-27
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-11-27
+Aktion,Voelkel bioC Immunkraft,"0,2 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,4.2,2024-12-27
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2024-12-27
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2024-12-27
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",,Nicht vegetarisch,Nicht vegan,bio,Kein Menü,4.2,2024-12-27
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2024-12-27
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.4,2024-12-27
+Alkoholfreie Getränke,Almdudler Kräuterlimonade,"0,35 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Bier,"Bitburger Premium Pils,0,3 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Bier,"Bitburger Premium Pils,0,5 l Glas",vom Fass,,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-12-27
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Bier,Bitburger Radler,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-12-27
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-12-27
+Bier,Bier Hell,"0,5 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2024-12-27
+Bier,Jever Fun Alkoholfrei,"0,33 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-12-27
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-12-27
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-12-27
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-12-27
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-12-27
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-12-27
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-12-27
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2024-12-27
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2024-12-27
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-12-27
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2024-12-27
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2024-12-27
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2024-12-27
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2024-12-27
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2024-12-27
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-12-27
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.8,2024-12-27
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2024-12-27
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2024-12-27
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-12-27
+Heißgetränke,Milch,warm oder kalt,,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2024-12-27
+Heißgetränke,BIO-EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-12-27
+Heißgetränke,BIO-EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-12-27
+Heißgetränke,BIO-EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-12-27
+Heißgetränke,BIO-EILLES TEE S Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,3.6,2024-12-27
+Heißgetränke,BIO-EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-12-27
+Heißgetränke,BIO-EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-12-27
+Heißgetränke,BIO-EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-12-27
+Heißgetränke,BIO-EILLES TEE L Herbal Refresh Kräutertee,,,Vegetarisch,Nicht vegan,bio,Kein Menü,4.0,2024-12-27
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2024-12-27
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2024-12-27
+Spirituosen,Gin,"Alc. 41 Vol.-%, 4 cl Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-12-27
+Spirituosen,Gin,"0,24 l",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,11.0,2024-12-27
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-12-27
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2024-12-27
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2024-12-27
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2024-12-27
+Aktion,Almdudler Kräuterlimonade,"0,35 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23961&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Alkoholfreie Getränke,share Mineralwasser sprudelnd,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18002&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2025-02-13
+Alkoholfreie Getränke,share Mineralwasser still,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23548&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.8,2025-02-13
+Alkoholfreie Getränke,Adelholzener Apfelschorle,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13569&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Alkoholfreie Getränke,Coca-Cola,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13574&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Alkoholfreie Getränke,Coca-Cola Zero,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22626&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Alkoholfreie Getränke,Bio Zitronen Limonade,"0,3 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22628&type=normal,Vegetarisch,Vegan,bio,Kein Menü,4.2,2025-02-13
+Alkoholfreie Getränke,Rauch Orangensaft,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=18004&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,3.6,2025-02-13
+Alkoholfreie Getränke,Fever-Tree Mediterranean Tonic Water,"0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23541&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2025-02-13
+Bier,"Bitburger Premium Pils 0,5 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23974&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2025-02-13
+Bier,"Bitburger Premium Pils 0,33 l Flasche",,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13566&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Bier,Bitburger Radler,"0,33 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22629&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Bier,ERDINGER Weißbier,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13564&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2025-02-13
+Bier,ERDINGER Alkoholfrei,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22631&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2025-02-13
+Bier,Bier Hell,"0,5 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23943&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.2,2025-02-13
+Bier,Jever Fun Alkoholfrei,"0,33 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23919&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Heißgetränke,Kaffee S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13543&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,Kaffee M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15297&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Heißgetränke,Kaffee L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14824&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2025-02-13
+Heißgetränke,Kaffee löslich S,entkoffeiniert,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=16323&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,Café Crème S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22619&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2025-02-13
+Heißgetränke,Café Crème M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22620&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2025-02-13
+Heißgetränke,Café Crème L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22621&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2025-02-13
+Heißgetränke,Cappuccino S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13553&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2025-02-13
+Heißgetränke,Cappuccino M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15296&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.4,2025-02-13
+Heißgetränke,Cappuccino L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14822&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.8,2025-02-13
+Heißgetränke,Café au Lait S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22622&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Heißgetränke,Café au Lait M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22623&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2025-02-13
+Heißgetränke,Café au Lait L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22624&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2025-02-13
+Heißgetränke,Latte Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13552&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.2,2025-02-13
+Heißgetränke,Latte Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=15298&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.6,2025-02-13
+Heißgetränke,Latte Macchiato L,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14823&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,5.0,2025-02-13
+Heißgetränke,Espresso S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13550&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.3,2025-02-13
+Heißgetränke,Espresso M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13548&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.6,2025-02-13
+Heißgetränke,Extra-Schuss Espresso,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14594&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,0.8,2025-02-13
+Heißgetränke,Espresso Macchiato S,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13549&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.5,2025-02-13
+Heißgetränke,Espresso Macchiato M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14827&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,COCAYA Heiße Schokolade M,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13545&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.0,2025-02-13
+Heißgetränke,Milch,warm oder kalt,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=21349&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.0,2025-02-13
+Heißgetränke,EILLES TEE S Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,EILLES TEE S English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,EILLES TEE S Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,EILLES TEE S Herbal Refresh Kräutertee,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14833&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,EILLES TEE L Earl Grey,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.3,2025-02-13
+Heißgetränke,EILLES TEE L English Breakfast,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.3,2025-02-13
+Heißgetränke,EILLES TEE L Grüntee Jingshen,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.3,2025-02-13
+Heißgetränke,EILLES TEE L Herbal Refresh Kräutertee,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14835&type=normal,Vegetarisch,Nicht vegan,bio,Kein Menü,4.3,2025-02-13
+Heißgetränke,EILLES TEE S Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14600&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,3.9,2025-02-13
+Heißgetränke,EILLES TEE L Spearminze,,https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=22625&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,4.3,2025-02-13
+Spirituosen,Gin,"Alc. 41 Vol.-%, 4 cl Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23546&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2025-02-13
+Spirituosen,Gin,"0,24  l",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23547&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,11.0,2025-02-13
+Spirituosen,Gin,"0,34 l",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=23944&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,10.9,2025-02-13
+Wein & Sekt,Grauburgunder,"QbA, trocken, Rheinhessen, 0,25 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13559&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2025-02-13
+Wein & Sekt,Riesling,"QbA, trocken, Rheinhessen, 0,25 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=14837&type=normal,Vegetarisch,Vegan,Nicht bio,Kein Menü,8.9,2025-02-13
+Wein & Sekt,Rotwein,"QbA, trocken, Pfalz, 0,25 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13558&type=normal,Nicht vegetarisch,Nicht vegan,Nicht bio,Kein Menü,8.9,2025-02-13
+Wein & Sekt,Sekt,"trocken, Cuvée, 0,2 l Flasche",https://web.archive.org/web/20240429110130im_/https://db-bordgastronomie.de/files/art-img/?id=13554&type=normal,Vegetarisch,Nicht vegan,Nicht bio,Kein Menü,6.9,2025-02-13
